@@ -1,0 +1,6 @@
+order_id,user_id,city,amount
+1,10,Lima,120.0
+2,11,Cusco,35.5
+3,10,Lima,80.0
+4,12,Arequipa,220.0
+5,13,Cusco,150.0
