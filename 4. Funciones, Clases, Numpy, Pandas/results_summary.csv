@@ -1,0 +1,5 @@
+city,count,mean,sum
+Arequipa,1,200.0,200
+Cusco,2,55.0,110
+Lima,2,100.0,200
+Unknown,1,150.0,150
